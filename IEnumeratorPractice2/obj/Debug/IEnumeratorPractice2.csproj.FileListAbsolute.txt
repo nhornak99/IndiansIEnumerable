@@ -1,0 +1,6 @@
+C:\Users\Noah\ProMVC\IEnumeratorPractice2\IEnumeratorPractice2\bin\Debug\IEnumeratorPractice2.exe.config
+C:\Users\Noah\ProMVC\IEnumeratorPractice2\IEnumeratorPractice2\bin\Debug\IEnumeratorPractice2.exe
+C:\Users\Noah\ProMVC\IEnumeratorPractice2\IEnumeratorPractice2\bin\Debug\IEnumeratorPractice2.pdb
+C:\Users\Noah\ProMVC\IEnumeratorPractice2\IEnumeratorPractice2\obj\Debug\IEnumeratorPractice2.csprojResolveAssemblyReference.cache
+C:\Users\Noah\ProMVC\IEnumeratorPractice2\IEnumeratorPractice2\obj\Debug\IEnumeratorPractice2.exe
+C:\Users\Noah\ProMVC\IEnumeratorPractice2\IEnumeratorPractice2\obj\Debug\IEnumeratorPractice2.pdb
